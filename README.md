@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# HTML/CSS Starter Code Refactor Project
 
 ## Description
 
