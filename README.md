@@ -4,7 +4,7 @@
 
 This is the week 1 project for the Monash Coding Bootcamp, we were tasked with refactoring the starter code for a webpage using HTML and CSS.
 
-Link to deployed site: https://sambeekman.github.io/html-css-refactor/#social-media-marketing
+Link to deployed site: https://sambeekman.github.io/html-css-refactor/
 
 ![sambeekman github io_html-css-refactor_](https://github.com/SamBeekman/html-css-refactor/assets/131665093/cf6b591b-7184-4f24-8d63-2013ab5c9ccf)
 
