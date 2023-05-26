@@ -23,7 +23,3 @@ To use this webpage you can navigate up or down by scrolling or alternatively cl
 Original code obtained from: https://github.com/coding-boot-camp/urban-octo-telegram
 
 Thank you to the AskBCS team who helped me wrap my head around this task and to the teaching staff for laying the groundwork
-
-## License
-
-This project is licensed under the MIT License
